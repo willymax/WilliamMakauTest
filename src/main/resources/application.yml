@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: WilliamMakauTest
+  profiles:
+    active: dev
