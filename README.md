@@ -12,3 +12,4 @@ The application uses the following domain models:
 
 Represents a B2C mobile money transaction.
 
+g
